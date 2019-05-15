@@ -1,0 +1,8 @@
+mum/swe/democrud/service/impl/StudentServiceImpl.class
+mum/swe/democrud/controller/HomeController.class
+mum/swe/democrud/service/StudentService.class
+mum/swe/democrud/controller/StudentController.class
+mum/swe/democrud/model/Student.class
+mum/swe/democrud/DemocrudApplication.class
+mum/swe/democrud/config/ServletInitializer.class
+mum/swe/democrud/repository/StudentRepository.class

@@ -1,0 +1,8 @@
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/model/Student.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/repository/StudentRepository.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/service/impl/StudentServiceImpl.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/controller/StudentController.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/DemocrudApplication.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/service/StudentService.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/config/ServletInitializer.java
+/SE/mum-swe-demos-master/democrud/src/main/java/mum/swe/democrud/controller/HomeController.java
